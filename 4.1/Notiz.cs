@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace _4._1
 {
@@ -47,16 +45,7 @@ namespace _4._1
             /// <param name="kat">Kategorie der neuen Notiz</param>
             /// <param name="text">Inhalt der neuen Notiz</param>
             //public Notiz(Kategorie kat, string text)
-            //{
-
-
-            //    this.Kategorie = kat;
-            //    this.Inhalt = text;
-            //    this.ID = Guid.NewGuid();
-            //    this.ErstelltAm = DateTime.Now;
-            //    Notizen.Add(this.ID, this);
-
-            //}
+           
             /// <summary>
             /// entfernt eine Notiz aus der Auflistung
             /// </summary>
